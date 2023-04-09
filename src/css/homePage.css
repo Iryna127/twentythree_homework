@@ -1,0 +1,15 @@
+.main-wrapper {
+  display: flex;
+  flex-direction: row;
+  max-width: 1100px;
+  margin: 0 auto;
+  background-color: rgb(250, 248, 246);
+}
+
+.herous-block {
+  margin: 0 100px;
+}
+
+.episode-block {
+  margin: 0 100px;
+}
